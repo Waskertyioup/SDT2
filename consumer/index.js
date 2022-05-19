@@ -45,7 +45,7 @@ const consume = async () => {
 }
 
 
-
+// Lee los mensajes en topic
 app.get("/cons", async (req, res) => {
   consume();
 });
