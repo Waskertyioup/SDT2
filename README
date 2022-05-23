@@ -1,6 +1,8 @@
-https://github.com/kriscfoster/node-kafka-producer-consumer
+Estructura del codigo:
 
 https://github.com/Oscurt/sd_202201
+
+Comunicacion Producer-Consumer:
 
 https://www.sohamkamani.com/nodejs/working-with-kafka/
 
@@ -16,3 +18,21 @@ http://localhost:3000/login
 Consumer:
 
 http://localhost:3001/
+
+
+Ejecucion de Pruebas y Funcionamiento del Sistema:
+
+Para la ejecucion correcta de este sistema se deben seguir los siguientes pasos:
+
+a) Iniciar el consumer. Esto se logra accediendo a la direccion http://localhost:3001/ 
+Mediante esta accion, el consumer comenzara a correr la funcion [x], la cual permite el continuo monitoreo del topico de Kafka con el fin de regular los intentos de login al sitio
+
+b) 
+
+Preguntas:
+
+1.- Kafka funciona bien en este escenario/tipo de aplicacion ya que permite
+
+
+2.- Para logar que una aplicacion de este tipo maneje un gran volumen de usuarios de forma simultanea, se deberia
+
