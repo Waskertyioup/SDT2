@@ -24,8 +24,8 @@ Ejecucion de Pruebas y Funcionamiento del Sistema:
 
 Para la ejecucion correcta de este sistema se deben seguir los siguientes pasos:
 
-a) Iniciar el consumer. Esto se logra accediendo a la direccion http://localhost:3001/ 
-Mediante esta accion, el consumer comenzara a correr la funcion [x], la cual permite el continuo monitoreo del topico de Kafka con el fin de regular los intentos de login al sitio
+a) Iniciar el consumer. Esto se logra accediendo a la direccion http://localhost:3001/cons
+Mediante esta accion, el consumer comenzara a correr la funcion [consume], la cual permite el continuo monitoreo del topico de Kafka con el fin de regular los intentos de login al sitio.
 
 b) 
 
